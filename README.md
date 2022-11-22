@@ -6,9 +6,9 @@ The purpose of this case is to present a practical proposal for the treatment of
 the necessary data models*
 > 
 DB Access
-HOST: https://pjb00188.us-east-1.snowflakecomputing.com/
-USER: juan.gesino@belvo.com
-PASS: Belvo1234
+- HOST: https://pjb00188.us-east-1.snowflakecomputing.com/
+- USER: juan.gesino@belvo.com
+- PASS: Belvo1234
 
 # Architecture
 
