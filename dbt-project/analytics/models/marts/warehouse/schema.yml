@@ -1,0 +1,57 @@
+version: 2
+
+models:
+  - name: dim_customers
+    columns:
+      - name: customer_id
+        tests:
+          - not_null
+          - unique
+      - name: owner_id
+      - name: customer_name
+      - name: customer_phase
+      - name: start_date
+      - name: end_date
+
+
+  - name: dim_deals_companies
+    columns:
+      - name: country_code
+      - name: company_id
+      - name: deal_id
+        tests:
+          - not_null
+          - unique
+      - name: company_name
+
+  - name: dim_deals_contacts
+    columns:
+      - name: country_code
+      - name: contact_id
+      - name: deal_id
+        tests:
+          - not_null
+          - unique
+      - name: concatct_name
+      - name: concatct_job
+      - name: contact_channel
+
+  - name: fct_deals_owners
+    columns:
+      - name: deal_id
+        tests:
+          - not_null
+          - unique
+      - name: external_id
+      - name: owner_id
+      - name: deal_name
+      - name: deal_product
+      - name: deal_amount
+      - name: deal_closed
+      - name: deal_status
+      - name: deal_created_date
+      - name: deal_closed_1
+      - name: owner_name
+      - name: owner_team
+      - name: owner_job_position
+

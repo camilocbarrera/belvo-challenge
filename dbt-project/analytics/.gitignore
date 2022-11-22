@@ -1,0 +1,14 @@
+
+target/
+dbt_packages/
+logs/
+../../.DS_Store
+../../.idea/
+
+venv
+logs
+.idea
+.DS_Store
+
+..logs/
+profiles.yml

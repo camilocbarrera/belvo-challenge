@@ -1,0 +1,64 @@
+version: 2
+
+models:
+  - name: rpt_customers_by_customer_id
+    columns:
+      - name: customer_id
+        tests:
+          - not_null
+          - unique
+      - name: owner_id
+      - name: customer_name
+      - name: customer_phase
+      - name: start_date
+      - name: end_date
+
+
+  - name: rpt_wide_mart_deals_denormalize
+    columns:
+      - name: deal_id
+        tests:
+          - not_null
+          - unique
+      - name: external_id
+      - name: owner_id
+      - name: deal_name
+      - name: deal_product
+      - name: deal_amount
+      - name: deal_closed
+      - name: deal_status
+      - name: deal_created_date
+      - name: deal_closed_1
+      - name: owner_name
+      - name: owner_team
+      - name: owner_job_position
+      - name: deals_companies_country_code
+        tests:
+          - accepted_values:
+              values:
+                - 'CO'
+                - 'MX'
+                - 'BR'
+      - name: company_id
+      - name: deals_contacts_company_name
+      - name: deals_contacts_country_code
+        tests:
+          - accepted_values:
+              values:
+                - 'CO'
+                - 'MX'
+                - 'BR'
+      - name: deals_contacts_contact_id
+      - name: deals_contacts_concatct_name
+      - name: deals_contacts_concatct_job
+      - name: deals_contacts_contact_channel
+      - name: customer_id
+      - name: customer_owner_id
+      - name: customer_name
+      - name: customer_phase
+      - name: customer_start_date
+      - name: customer_end_date
+
+
+
+

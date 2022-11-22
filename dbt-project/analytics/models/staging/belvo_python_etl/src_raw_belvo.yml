@@ -1,0 +1,70 @@
+version: 2
+
+sources:
+  - name: raw_belvo
+    description: a clone of a postgres application database.
+    database: belvo_analytics
+    schema: raw
+
+    tables:
+      - name: companies
+        description: "companies raw table"
+        columns:
+          - name: id
+          - name: name
+          - name: country
+
+      - name: companies_deals_associations
+        description: "companies_deals_associations raw table"
+        columns:
+          - name: companyid
+          - name: dealids
+
+      - name: contacts
+        description: "contacts raw table"
+        columns:
+          - name: id
+          - name: name
+          - name: job
+          - name: country
+          - name: channel
+
+
+      - name: contacts_deals_associations
+        description: "contacts_deals_associations raw table"
+        columns:
+          - name: contactid
+          - name: dealids
+
+      - name: customers
+        description: "customers raw table"
+        columns:
+          - name: id
+          - name: owner_id
+          - name: customer_name
+          - name: customer_phase
+          - name: start_date
+          - name: end_date
+
+
+      - name: deals
+        description: "deals raw table"
+        columns:
+          - name: id
+          - name: externalid
+          - name: ownerid
+          - name: name
+          - name: product
+          - name: amount
+          - name: closed
+          - name: status
+          - name: created_date
+          - name: closed_1
+
+      - name: owners
+        description: "owners raw table"
+        columns:
+          - name: id
+          - name: name
+          - name: team
+          - name: job_position

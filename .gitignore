@@ -1,0 +1,10 @@
+../../.DS_Store
+../../.idea/
+venv
+logs
+.idea
+.DS_Store
+../.env
+.env/
+.envgit
+/.env

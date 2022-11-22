@@ -1,0 +1,65 @@
+version: 2
+
+models:
+  - name: stg_belvo__companies
+    description: "Staging model for stg_belvo__companies"
+    columns:
+      - name: company_id
+      - name: company_name
+      - name: country_code
+
+
+
+  - name: stg_belvo__companies_deals_associations
+    description: "Staging model for stg_belvo__companies_deals_associations"
+    columns:
+      - name: company_id
+      - name: deal_id
+
+  - name: stg_belvo__contacts
+    description: "Staging model for stg_belvo__contacts"
+    columns:
+      - name: contact_id
+      - name: concatct_name
+      - name: concatct_job
+      - name: country_code
+      - name: contact_channel
+
+
+  - name: stg_belvo__contacts_deals_associations
+    description: "Staging model for stg_belvo__contacts_deals_associations"
+    columns:
+      - name: contact_id
+      - name: deal_id
+
+  - name: stg_belvo__customers
+    description: "Staging model for stg_belvo__customers"
+    columns:
+      - name: customer_id
+      - name: owner_id
+      - name: customer_name
+      - name: customer_phase
+      - name: start_date
+      - name: end_date
+
+  - name: stg_belvo__deals
+    description: "Staging model for stg_belvo__deals"
+    columns:
+      - name: deal_id
+      - name: external_id
+      - name: owner_id
+      - name: deal_name
+      - name: deal_product
+      - name: deal_amount
+      - name: deal_closed
+      - name: deal_status
+      - name: deal_created_date
+      - name: deal_closed_1
+
+  - name: stg_belvo__owners
+    description: "Staging model for stg_belvo__owners"
+    columns:
+      - name: owner_id
+      - name: owner_name
+      - name: owner_team
+      - name: owner_job_position
