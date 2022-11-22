@@ -1,4 +1,4 @@
-# Belvo Hackathon
+# Belvo Datathon
 
 The purpose of this case is to present a practical proposal for the treatment of data from the customers and deals information customers for [Belvo's](https://belvo.com/) portfolio .
 
@@ -276,3 +276,95 @@ The main idea of this report is to be able to answer questions about the behavio
 # Findings
 
 [https://docs.google.com/presentation/d/1frh7GMdECX6Jmm1J4pIoutddmIdl7O6XcG_Q50u57-I/edit?usp=sharing](https://docs.google.com/presentation/d/1frh7GMdECX6Jmm1J4pIoutddmIdl7O6XcG_Q50u57-I/edit?usp=sharing)
+
+
+# Part 2: Query implementation
+
+Write a SQL query that generates per capita COVID total case growth rate per country per week
+using below information.
+
+- [x]  Set up a BigQuery account
+- [x]  Query from this COVID-19 public datasets: JHU Coronavirus COVID-19 Global Cases
+- [x]  Plus one of the census datasets here Using BigQuery to query COVID-19 public datasets is free.
+
+## Query
+
+```sql
+WITH covid_cases             AS (
+
+     SELECT
+          country_region                           AS country_name
+        , date_trunc( cast( date AS date ), WEEK ) AS week
+        , date_trunc( cast( date AS date ), YEAR ) AS year
+        , sum( coalesce( confirmed, 0 ) )          AS confirmed
+        , sum( coalesce( deaths, 0 ) )             AS deaths
+        , sum( coalesce( active, 0 ) )             AS active
+
+     FROM bigquery-public-data.covid19_jhu_csse.summary 
+     GROUP BY 1, 2, 3
+
+)
+   , population              AS (
+
+     SELECT
+          country_name         AS country_name
+        , DATE( YEAR, 01, 01 ) AS YEAR
+        , sum( population )    AS population
+
+     FROM `bigquery-public-data.census_bureau_international.midyear_population_agespecific`
+     GROUP BY 1, 2
+)
+   , covid_casess_population AS (
+    
+     SELECT
+          covid_cases.country_name                                            AS country_name
+        , covid_cases.week                                                    AS week
+        , covid_cases.year                                                    AS year
+        , COALESCE( confirmed, 0 ) + COALESCE( deaths, 0 ) + COALESCE( active, 0 ) AS total_cases
+        , population                                                          AS population
+        , count( DISTINCT week ) OVER (PARTITION BY covid_cases.country_name) AS number_of_weeks
+
+     FROM covid_cases
+     JOIN population
+               ON covid_cases.country_name = population.country_name
+                       AND covid_cases.year = population.year
+
+)
+   , valuess                 AS (
+
+     SELECT
+          country_name
+        , week
+        , year
+        , total_cases
+        , population
+        , safe_divide( total_cases, population.population )                                                        AS cases_per_capita
+        , lead( safe_divide( total_cases, population.population ) )
+                OVER (PARTITION BY country_name ORDER BY week)                                                     AS lead_value
+
+     FROM covid_casess_population
+     WHERE TRUE
+--       AND country_name = 'Mexico'
+     ORDER BY week
+)
+
+SELECT
+     country_name
+   , week
+   , year
+   , total_cases
+   , population
+   , cases_per_capita
+   , lead_value
+   , safe_divide(  lead_value, cases_per_capita ) divide
+   , safe_divide(  lead_value, cases_per_capita ) - 1 AS grwoth_rate
+FROM VALUESS
+
+;
+```
+
+![Untitled](https://github.com/camilocbarrera/belvo-challenge/blob/main/img/Untitled%205.png)
+
+## Looker Report
+
+![Untitled](https://github.com/camilocbarrera/belvo-challenge/blob/main/img/Untitled%206.png)
