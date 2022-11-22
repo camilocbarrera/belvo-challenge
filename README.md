@@ -8,7 +8,7 @@ the necessary data models*
 
 # Architecture
 
-![Untitled](Belvo%20Hackathon%20ec0eb7a31de443f9b6faf2fcc31ceeb8/Untitled.jpeg)
+![Untitled](https://github.com/camilocbarrera/belvo-challenge/blob/main/img/Untitled.jpeg)
 
 To solve this case, we will try to use best architecture practices and standards to carry out the data extraction, loading and transformation process.
 
@@ -216,21 +216,21 @@ The data modeling will be done with [DBT](https://www.getdbt.com/product/what-is
 
 For modeling, it is proposed to have a decoupled distribution, which allows scalability in any direction, low coupling and high cohesion of the models. It will be done as shown below.
 
-![Untitled](Belvo%20Hackathon%20ec0eb7a31de443f9b6faf2fcc31ceeb8/Untitled%201.jpeg)
+![Untitled](https://github.com/camilocbarrera/belvo-challenge/blob/main/img/Untitled%201.jpeg)
 
 At each stage, the models were made with their respective tests, also with seeds, to validate the status of the countries. separating each layer. For more detail check the models/marts directory
 
 ## DBT Structure
 
-![Untitled](Belvo%20Hackathon%20ec0eb7a31de443f9b6faf2fcc31ceeb8/Untitled.png)
+![Untitled](https://github.com/camilocbarrera/belvo-challenge/blob/main/img/Untitled.png)
 
-![Untitled](Belvo%20Hackathon%20ec0eb7a31de443f9b6faf2fcc31ceeb8/Untitled%201.png)
+![Untitled](https://github.com/camilocbarrera/belvo-challenge/blob/main/img/Untitled%201.png)
 
 ## DAG Lineage
 
 The flow of data, as shown below at each stage, from the data sources, Staging, Warehouse and Reporting. A seed is also used to adapt the values of countries that can be grouped.
 
-![Untitled](Belvo%20Hackathon%20ec0eb7a31de443f9b6faf2fcc31ceeb8/Untitled.gif)
+![Untitled](https://github.com/camilocbarrera/belvo-challenge/blob/main/img/Untitled.gif)
 
 ## OLAP Modeling
 
@@ -239,13 +239,13 @@ The flow of data, as shown below at each stage, from the data sources, Staging, 
 
 In order to optimize the use of the Warehouse Layer and avoid data redundancy, an OLAP model is proposed, in order to obtain data between different tables, in a FN1 and FN2.
 
-![Untitled](Belvo%20Hackathon%20ec0eb7a31de443f9b6faf2fcc31ceeb8/Untitled%202.png)
+![Untitled](https://github.com/camilocbarrera/belvo-challenge/blob/main/img/Untitled%202.png)
 
 ## Model Deployment in Snowflake
 
 14 models were deployed, with 14 different tests that try to verify the integrity of the data in each stage, unit tests such as verification of duplicate values and non-null fields, as well as expected values for columns such as country code.
 
-![Untitled](Belvo%20Hackathon%20ec0eb7a31de443f9b6faf2fcc31ceeb8/Untitled%203.png)
+![Untitled](https://github.com/camilocbarrera/belvo-challenge/blob/main/img/Untitled%203.png)
 
 # Reporting
 
@@ -257,7 +257,7 @@ Power bi has a native connector that allows us to do this.
 
 ### Models Loades into PowerBI
 
-![Untitled](Belvo%20Hackathon%20ec0eb7a31de443f9b6faf2fcc31ceeb8/Untitled%204.png)
+![Untitled](https://github.com/camilocbarrera/belvo-challenge/blob/main/img/Untitled%204.png)
 
 # Report 📊
 
@@ -267,7 +267,7 @@ In this URL, you can find the report Online
 
 The main idea of this report is to be able to answer questions about the behavior of Deals. Their states, and key factors that influence their amount or state.
 
-![Untitled](Belvo%20Hackathon%20ec0eb7a31de443f9b6faf2fcc31ceeb8/Untitled%201.gif)
+![Untitled](https://github.com/camilocbarrera/belvo-challenge/blob/main/img/Untitled%201.gif)
 
 # Findings
 
