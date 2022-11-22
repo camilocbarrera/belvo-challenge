@@ -1,0 +1,11 @@
+version: 2
+
+seeds:
+  - name: country_codes
+    description: "countries look up"
+    columns:
+      - name: country_raw
+      - name: country_code
+        test:
+          - unique
+          - not_null

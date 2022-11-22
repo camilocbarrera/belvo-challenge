@@ -1,0 +1,927 @@
+ID,Owner ID,Customer Name,Customer Phase,Start Date,End Date
+59,825,"White, Smith and Romero",Churn,1639212411.0,2022-07-14
+66,795,Johnson-Gardner,Churn,1632400993.0,2022-07-29
+130,743,Cortez LLC,Onboarding,,
+414,656,"Abbott, Conway and Martin",Onboarding,,
+504,825,"Leon, Graham and Williamson",Active,1643687350.0,
+708,795,"Horton, Taylor and Lynch",Churn,1638289374.0,2022-05-21
+816,656,Mcdonald Group,Churn,1629993323.0,2022-05-13
+1014,656,"Barnes, Anderson and Ford",Churn,1634603280.0,2022-04-06
+1308,743,"Kaufman, Jackson and Dougherty",Active,1629934333.0,
+1314,795,Dunlap PLC,Active,1615933963.0,
+1496,795,"Smith, Moore and White",Active,1631670439.0,
+1509,743,Johnson Inc,Churn,1615988176.0,2021-09-22
+1588,743,Schmidt PLC,Churn,1642891172.0,2022-06-08
+1604,795,"Baker, Houston and Smith",Active,1626275202.0,
+1677,743,Chambers Ltd,Churn,1626091136.0,2022-06-20
+1711,743,"Williams, Young and Love",Active,1645336714.0,
+1955,795,Rogers and Sons,Active,1642876499.0,
+1964,656,Herrera and Sons,Churn,1632143272.0,2022-03-26
+2021,795,Jordan Ltd,Active,1623563274.0,
+2062,795,Wilson-Johnson,Churn,1627627280.0,2022-02-25
+2158,795,"Martinez, Knox and Parker",Active,1643940298.0,
+2194,795,Meyer LLC,Active,1615822942.0,
+2298,825,"Clark, Jones and Carey",Active,1628511542.0,
+2340,795,Cox Ltd,Churn,1633806315.0,2022-08-20
+2438,743,Sanchez and Sons,Active,1615262792.0,
+2464,656,Anderson-Bowman,Churn,1622888346.0,2021-10-02
+2484,656,Peterson-West,Active,1629456777.0,
+2671,743,Jefferson PLC,Active,1624282516.0,
+2676,656,"Thomas, Smith and Banks",Active,1624841441.0,
+2768,795,"Young, Walker and Parrish",Active,1632732797.0,
+2850,743,Huff-Woods,Churn,,2021-05-16
+2947,743,Valentine Ltd,Active,1644306326.0,
+3512,825,Petersen Ltd,Churn,1638770847.0,2022-05-11
+3701,743,Velasquez-George,Active,1618239055.0,
+3865,825,"Watson, Hernandez and Fletcher",Active,1641063079.0,
+3936,795,Bryant Ltd,Churn,1633519174.0,2021-11-29
+4013,795,"Fisher, Bailey and Moran",Churn,,2021-08-04
+4110,656,Moore Group,Churn,1621614419.0,2022-05-09
+4217,795,Moore-Parker,Active,1626045340.0,
+4359,795,Contreras-Brown,Active,1635863522.0,
+4438,743,Taylor-Lewis,Active,1633219832.0,
+4493,656,Finley PLC,Active,1633536795.0,
+4596,795,"Russell, Jackson and Shaffer",Onboarding,,
+4864,656,King Inc,Active,1646056788.0,
+5095,795,"Salinas, Burnett and Moses",Active,1624364431.0,
+5269,743,Campbell-Williams,Active,1616709197.0,
+5310,795,"Roach, Dixon and Murillo",Churn,1643394253.0,2022-03-31
+5377,825,Anderson Group,Active,1627347060.0,
+5417,656,"Lindsey, Smith and Powers",Active,1637193624.0,
+5493,825,"Moore, Lopez and Escobar",Churn,,2022-01-28
+5513,825,Haney-Rivera,Active,1633932091.0,
+5641,743,"Parker, Fry and Long",Onboarding,,
+5722,656,"Espinoza, Norris and Cabrera",Active,1615721726.0,
+5880,795,"Collins, Mack and Wright",Active,1625468067.0,
+5949,743,Zimmerman PLC,Churn,1629866042.0,2021-10-23
+6148,795,"Wright, James and Chapman",Active,1619434761.0,
+6165,743,"Martin, Neal and Gonzalez",Active,1643500493.0,
+6328,743,Cruz Ltd,Active,1637537092.0,
+6338,656,Ball-Reyes,Active,1638052607.0,
+6400,743,Moon Ltd,Onboarding,,
+6514,656,Reed Inc,Active,1616823175.0,
+6580,656,Peterson-Lopez,Active,1634671915.0,
+6630,825,"Sims, Cooper and Choi",Active,1645604772.0,
+6850,825,"Hernandez, Ashley and Black",Churn,1629538376.0,2021-10-30
+7068,795,Fuller-Elliott,Churn,1639009667.0,2022-07-10
+7413,825,Montoya PLC,Active,1632784313.0,
+7440,795,"Barker, Conner and Munoz",Active,1627945636.0,
+7571,825,Morales Inc,Churn,1632081464.0,2021-10-16
+7628,656,"Spence, Navarro and Bryant",Active,1619278857.0,
+7918,656,"Russell, Hudson and Frost",Active,1627165157.0,
+7998,743,"Camacho, Spencer and Nicholson",Active,1634190476.0,
+8157,743,"Fitzpatrick, Mclean and Burns",Churn,1628666263.0,2022-04-30
+8253,743,Goodwin-Shepherd,Churn,1633234036.0,2022-06-07
+8339,825,Bishop-Randall,Active,1638188639.0,
+8404,656,"Johnson, George and Nixon",Churn,1643099105.0,2022-09-15
+8475,825,Rodriguez-Hendricks,Churn,1614247034.0,2021-06-20
+8524,825,Butler LLC,Active,1637483408.0,
+8728,656,"Campbell, King and Harris",Onboarding,,
+8927,743,Davis-Mcgee,Active,1632367849.0,
+8980,825,"Heath, Duke and Snyder",Active,1645357890.0,
+8997,743,Brown Inc,Active,1639447125.0,
+9170,743,Davis-Peters,Churn,1637899052.0,2022-07-09
+9236,825,Haley-Paul,Active,1643385433.0,
+9583,656,"Hernandez, Diaz and Nash",Churn,,2021-10-28
+9983,825,"Cook, Harvey and Franklin",Churn,1642612001.0,2022-03-25
+10074,825,"Taylor, Evans and Robinson",Churn,1620218664.0,2022-02-09
+10242,656,Taylor-Matthews,Churn,1629173774.0,2022-06-21
+10325,656,"Rodgers, James and Scott",Churn,1640282915.0,2022-11-28
+10498,743,"Edwards, Pham and Phillips",Churn,1613798059.0,2021-05-26
+10570,656,Robertson Ltd,Active,1641132078.0,
+10621,825,"Myers, Barrera and Hart",Active,1639908651.0,
+10680,743,Perkins-Stewart,Active,1636993507.0,
+10918,825,Gibson Inc,Onboarding,,
+10951,743,"Wells, Myers and Ryan",Churn,1622709066.0,2022-02-26
+10957,743,"Boyer, Smith and Wagner",Onboarding,,
+10999,795,Hood-Stewart,Active,1636024334.0,
+11011,656,"Campbell, Reid and Downs",Active,1625771517.0,
+11286,795,"Patton, Barr and Nelson",Active,1624726201.0,
+11363,656,Jimenez and Sons,Onboarding,,
+11448,743,Gentry-Kramer,Onboarding,,
+11595,795,Cox-Wilson,Active,1614822304.0,
+11674,795,"Cantrell, Rice and Robertson",Active,1623195676.0,
+11942,656,"Fischer, Hardy and Walker",Active,1646520160.0,
+12095,743,Valdez Group,Active,1643554930.0,
+12212,825,Terry-Blake,Churn,,2022-01-30
+12364,656,Miranda Inc,Active,1646150033.0,
+12432,825,"Brown, Brown and Barker",Active,1617979110.0,
+12474,795,"Rivera, Taylor and Wang",Churn,1643012179.0,2022-12-09
+12536,656,"Jones, Forbes and Evans",Active,1622443470.0,
+12589,825,York-Moreno,Active,1625098608.0,
+12736,743,"West, Parsons and Fischer",Churn,1643681329.0,2022-12-30
+12883,743,Jordan-Fisher,Churn,1632821066.0,2022-07-06
+12974,825,"Nelson, Daniel and Mason",Churn,1615159187.0,2021-05-20
+13156,825,Bell-Walker,Active,1642022247.0,
+13241,743,"Carey, Watson and Green",Active,1625182907.0,
+13251,825,Copeland and Sons,Active,1649564339.0,
+13341,743,Long Ltd,Onboarding,,
+13413,825,Walker Ltd,Active,1635959610.0,
+13487,825,Webb-Hall,Active,1636376163.0,
+13495,825,Smith-Johnson,Active,1634535160.0,
+13672,795,Serrano-Ramirez,Onboarding,,
+13704,795,Johnson-Snow,Churn,1623311162.0,2021-10-13
+13752,656,Wilson-Reyes,Churn,1638622543.0,2022-11-05
+13831,656,"Martinez, Pineda and Hamilton",Active,1628592533.0,
+13880,656,Sanchez-Christensen,Churn,,2021-10-06
+13975,743,"Landry, Watson and Knapp",Active,1623470890.0,
+14222,795,Lopez LLC,Churn,1642420494.0,2022-07-08
+14269,825,Sullivan LLC,Active,1643312751.0,
+14544,825,Perkins-Montgomery,Churn,1612979427.0,2021-12-19
+14601,743,Garcia-Mcfarland,Active,1636330231.0,
+14701,795,Russell Group,Active,1639608833.0,
+14745,825,"Woods, Andrews and Morgan",Active,1635176122.0,
+14833,656,Powers-Miller,Active,1638152164.0,
+14917,656,Price-Cooper,Churn,1630898847.0,2022-03-13
+15004,743,"Jackson, Mayer and Castro",Active,1632645791.0,
+15119,656,Patterson-Hughes,Active,1637106015.0,
+15214,795,Morrison PLC,Churn,1644342395.0,2022-11-18
+15327,743,"Fisher, Estes and Munoz",Onboarding,,
+15407,656,Schmidt-Castillo,Active,1622526718.0,
+15523,795,Mendoza-Gray,Churn,1627442844.0,2022-04-21
+15579,825,Allen Ltd,Churn,1642939708.0,2022-06-27
+15649,656,Crane-Ramirez,Active,1631460258.0,
+15687,656,"Wright, Sanchez and Lee",Active,1643403899.0,
+15747,743,Newman-Strickland,Churn,1636846157.0,2022-09-03
+15880,656,Benitez-Walker,Active,1624443445.0,
+16137,656,Day-Mcdowell,Churn,1639650937.0,2022-08-20
+16271,795,Lucas-Mcgee,Active,1632532886.0,
+16351,743,Fuentes Ltd,Active,1629885494.0,
+16472,656,Bell PLC,Active,1627022755.0,
+16520,656,"Beck, Richardson and Nguyen",Active,1637711531.0,
+16565,795,Harris Group,Active,1641795130.0,
+16584,825,Taylor Ltd,Active,1643452730.0,
+16795,825,Alvarado PLC,Churn,1618909067.0,2021-10-27
+16802,795,"King, Jackson and Hudson",Active,1636872298.0,
+16866,656,"Clark, Taylor and Freeman",Active,1638809141.0,
+16925,825,"Tran, Lewis and Reynolds",Churn,1626867359.0,2022-01-29
+17019,795,"Smith, Price and Jackson",Churn,1617206402.0,2021-07-25
+17053,825,Johnson-Rice,Active,1625049467.0,
+17145,825,Lewis PLC,Onboarding,,
+17376,743,Duarte and Sons,Churn,1627355053.0,2022-03-06
+17622,825,Carroll LLC,Active,1625513428.0,
+17910,825,Walker LLC,Active,1644451449.0,
+18015,795,"Nunez, Valentine and Farrell",Churn,1644748463.0,2022-06-16
+18240,656,"Lawrence, Parker and Walker",Churn,1633448001.0,2022-02-12
+18376,825,Rosario PLC,Active,1631128098.0,
+18548,743,Harris-Price,Onboarding,,
+18688,825,Allison-Golden,Active,1630824668.0,
+18696,825,Williams-Hughes,Active,1643211666.0,
+18743,795,Hoover LLC,Active,1613336259.0,
+18843,825,Holloway-Gonzalez,Active,1621214304.0,
+18979,825,Hunter Inc,Churn,1634442563.0,2022-06-03
+19084,656,Thompson-Kennedy,Active,1632814321.0,
+19150,743,"Welch, Fox and Robinson",Active,1623412460.0,
+19185,656,Hurst Ltd,Active,1643407999.0,
+19364,795,Bennett PLC,Active,1639453497.0,
+19423,743,Mcdonald-Gonzalez,Churn,1624428015.0,2022-04-21
+19464,656,Guerra-Moore,Active,1642899715.0,
+19664,656,Smith-Greer,Active,1623717314.0,
+19696,825,"Cooper, Anderson and Munoz",Active,1635530733.0,
+19701,795,Nguyen LLC,Active,1641299613.0,
+19728,795,Murray-Thomas,Churn,1642314781.0,2022-08-16
+19828,743,Rosales-Ramirez,Active,1625664864.0,
+19935,656,Blackwell-Lindsey,Active,1637990045.0,
+20023,656,Campos-Russell,Active,1630641182.0,
+20049,656,Kim-Meza,Active,1628976355.0,
+20204,743,"Sherman, Conner and Moyer",Churn,1620243651.0,2022-03-09
+20283,743,Gill-Smith,Onboarding,,
+20410,743,White Ltd,Active,1620451663.0,
+20445,743,"Johns, Torres and Smith",Onboarding,,
+20623,656,"Matthews, Reed and Solis",Onboarding,,
+20807,825,Bryant-Simmons,Churn,1634257774.0,2022-06-11
+20865,743,Chapman-Beck,Active,1616163173.0,
+21070,743,Luna Group,Churn,1631534385.0,2021-12-17
+21110,743,Davis-Hernandez,Active,1635201933.0,
+21159,743,"Miller, Velasquez and Diaz",Churn,1643083644.0,2022-02-15
+21232,656,Mccarthy-Griffith,Churn,,2021-06-29
+21405,656,"Carpenter, Bailey and Davila",Churn,1637237080.0,2022-04-14
+21427,825,"Lopez, Knight and Pierce",Active,1617172245.0,
+21711,825,Carroll-Saunders,Active,1632764850.0,
+21718,825,Collins PLC,Onboarding,,
+21811,795,"Blake, Medina and Wright",Churn,1629843929.0,2022-01-20
+22092,743,Reyes-Miranda,Active,1629063881.0,
+22252,656,Delacruz PLC,Churn,1638210646.0,2022-11-20
+22372,795,Price-Gray,Active,1622224662.0,
+22453,825,Ramirez-Mccormick,Active,1640732571.0,
+22627,656,Maldonado PLC,Active,1633417334.0,
+22707,825,"Schultz, Turner and Bennett",Active,1623525952.0,
+22829,656,"Martin, Jenkins and Phillips",Active,1636405427.0,
+22998,743,"Rivera, Coleman and Mcclain",Active,1640214083.0,
+23088,743,"Henry, Trujillo and Phillips",Churn,1619504519.0,2021-06-24
+23226,825,Miller Group,Active,1639382613.0,
+23306,743,"Wiley, Vasquez and Fowler",Onboarding,,
+23324,825,Larson Ltd,Active,1622009413.0,
+23466,743,Jones-Thomas,Active,1629757424.0,
+23470,825,Thompson PLC,Onboarding,,
+23582,825,"Dominguez, Morgan and Cook",Churn,1617176996.0,2021-08-24
+23753,825,Simpson-Ferguson,Active,1630613975.0,
+23859,656,Conley Ltd,Active,1625422711.0,
+23896,825,Nichols-Patel,Churn,1625755373.0,2021-12-08
+24069,743,Harvey-Powell,Active,1623799071.0,
+24316,825,"Parker, Thornton and Wiley",Onboarding,,
+24418,825,"Herrera, Jones and Lewis",Active,1637300356.0,
+24688,743,"Taylor, Paul and Rodriguez",Active,1626465109.0,
+24999,825,Thomas-Harper,Active,1632990217.0,
+25189,743,Smith Ltd,Active,1630070394.0,
+25296,743,"Stephens, West and Krueger",Active,1622774971.0,
+25334,825,Morse and Sons,Active,1631289027.0,
+25415,656,"Rodriguez, Gates and Hoover",Active,1645791536.0,
+25509,825,Vaughn-Rodriguez,Active,1629720473.0,
+25629,795,Mcneil-Davis,Active,1642069948.0,
+25839,825,"Maxwell, Holder and Mora",Active,1629990698.0,
+26081,656,"Beck, Frazier and Cox",Active,1632417921.0,
+26219,656,"Howard, Garcia and Lowery",Churn,1639639086.0,2022-06-13
+26277,743,Sullivan LLC,Active,1631669053.0,
+26433,825,Willis LLC,Active,1641511450.0,
+26484,743,Lewis-Vasquez,Active,1626205347.0,
+26567,825,Davis-Dixon,Active,1634530156.0,
+26636,656,Ortiz-Lara,Active,1615201982.0,
+26665,795,Jenkins and Sons,Churn,1632343459.0,2021-12-17
+26699,743,Wood PLC,Active,1632706760.0,
+26856,656,Aguilar-Mitchell,Active,1628767727.0,
+27385,743,Romero and Sons,Active,1614786348.0,
+27560,656,"Petty, Ramsey and Garrett",Active,1641081891.0,
+27614,743,Hudson Ltd,Active,1636285828.0,
+27656,656,"Gillespie, Gamble and Vasquez",Active,1626073725.0,
+27808,795,Harvey Group,Churn,1617679374.0,2022-02-08
+27858,656,Mcdaniel-Williams,Churn,1618061619.0,2021-09-07
+27975,743,Fisher Group,Active,1618607292.0,
+28022,743,"Thomas, Gibson and Martin",Churn,1616174916.0,2021-11-06
+28044,743,Smith-Miller,Active,1617454625.0,
+28187,656,Lam-Hudson,Churn,1621749682.0,2021-06-15
+28318,743,Howard Inc,Active,1644284103.0,
+28403,825,Nelson Group,Churn,1643285990.0,2022-06-20
+28761,656,Tyler Inc,Active,1629100711.0,
+28928,743,Ellison-Guerrero,Churn,1628427826.0,2022-03-17
+28986,743,Bennett-Harris,Active,1625177402.0,
+29082,825,"Snyder, Jordan and Griffin",Active,1617163305.0,
+29160,743,Francis-Sanders,Onboarding,,
+29316,795,"Franco, Gillespie and Robertson",Churn,1644747309.0,2022-05-12
+29386,743,Martin-Barrett,Active,1638861518.0,
+29517,656,"Snyder, Salinas and Garza",Active,1640568161.0,
+29677,795,Neal-Moore,Active,1629049925.0,
+29830,825,Rubio-Johnson,Churn,1619655994.0,2021-06-09
+29883,825,Carroll-Davis,Churn,,2021-04-27
+30003,656,"Eaton, Phillips and Rogers",Churn,1613654915.0,2021-07-30
+30111,825,Bowen Group,Active,1640318113.0,
+30157,743,Jacobs-Baxter,Churn,1649125896.0,2022-07-04
+30207,795,Dominguez Group,Churn,1634104423.0,2022-03-23
+30233,795,Smith PLC,Active,1624855455.0,
+30439,656,Hudson Inc,Churn,,2021-05-05
+30492,795,Gonzalez Inc,Churn,1636962129.0,2022-03-26
+30558,795,Nguyen Group,Active,1624319764.0,
+30571,825,Liu-Moreno,Churn,1624157815.0,2021-08-25
+30601,795,"Kramer, Green and West",Churn,1636197172.0,2022-09-23
+30941,743,Mcguire Ltd,Churn,1625532113.0,2021-11-13
+30976,825,"Hale, Turner and Wilson",Active,1625207783.0,
+31050,656,"Rodriguez, Hill and Burns",Active,1624063885.0,
+31142,795,"Scott, Perkins and White",Churn,1633024499.0,2022-05-22
+31228,825,Rice Ltd,Active,1635230723.0,
+31344,795,Weaver-Smith,Active,1639338459.0,
+31456,656,Moran-Johnson,Active,1637660569.0,
+31491,795,"Evans, Castillo and Thompson",Active,1633903676.0,
+31673,795,Wilkerson Group,Active,1612404174.0,
+31713,795,"Thornton, Bautista and Hatfield",Churn,,2021-12-01
+31724,743,Estes Ltd,Onboarding,,
+31851,825,Rush-Cooke,Active,1620774459.0,
+31887,656,"Richardson, Scott and Cross",Churn,1642112256.0,2022-08-14
+31977,656,Berry and Sons,Onboarding,,
+32018,825,Castro LLC,Churn,1642770115.0,2022-10-03
+32055,656,"Warren, Kemp and James",Active,1624083647.0,
+32123,825,Butler-Garner,Churn,1616855139.0,2021-10-28
+32198,825,Hernandez-Jacobson,Churn,,2021-04-24
+32248,795,"King, Vega and Scott",Active,1620275268.0,
+32628,795,Davis and Sons,Churn,,2021-12-18
+32704,825,Sawyer-Garrett,Churn,1639991834.0,2022-10-20
+32753,656,Taylor and Sons,Active,1618584722.0,
+32888,743,Tucker-Brooks,Churn,1618051307.0,2021-07-08
+32947,656,Yates Group,Active,1640510119.0,
+33068,656,Ramsey Ltd,Onboarding,,
+33352,743,Clark Ltd,Churn,1632522681.0,2021-12-23
+33499,743,Page and Sons,Active,1639248712.0,
+33525,656,"Flores, Wilkerson and Salazar",Churn,1630465541.0,2022-01-24
+33830,743,Mclean Group,Churn,1637861785.0,2022-01-24
+33955,825,"Vaughn, Contreras and Ramsey",Active,1636613941.0,
+34372,743,Townsend PLC,Onboarding,,
+34382,795,"Taylor, Terry and Gonzalez",Active,1644231885.0,
+34753,656,Lawrence Group,Churn,1643899148.0,2023-01-20
+34997,825,Jackson Ltd,Churn,1617973810.0,2022-01-07
+35080,795,White and Sons,Churn,1636394217.0,2022-09-11
+35187,795,Morse-Williams,Active,1621862167.0,
+35249,825,Kim PLC,Active,1642622321.0,
+35328,795,Doyle PLC,Active,1637955475.0,
+35744,795,"Reed, Rowe and Rodriguez",Churn,1620068579.0,2022-01-20
+35761,656,Williams and Sons,Active,1646390162.0,
+35972,656,Reed-Freeman,Active,1615930394.0,
+36160,795,"Beasley, Jacobs and Roberts",Active,1636414405.0,
+36176,825,Tran-Vaughn,Active,1625794265.0,
+36329,656,Rogers-Bradford,Active,1641074305.0,
+36357,656,Beltran Ltd,Churn,1628490363.0,2022-02-21
+36555,656,Meyer LLC,Active,1620288269.0,
+36702,795,"Reynolds, Middleton and Thompson",Active,1648178057.0,
+36762,825,"Henry, Cook and Miller",Active,1626210684.0,
+36836,795,Parker LLC,Active,1638410586.0,
+36939,743,Weeks-Mcclure,Onboarding,,
+37091,795,Williamson-Smith,Onboarding,,
+37323,795,Moore PLC,Active,1642150430.0,
+37340,825,Vasquez-Martinez,Active,1634472025.0,
+37443,743,Collins Group,Onboarding,,
+37481,825,Mccoy PLC,Active,1624904889.0,
+37519,825,"Ware, Byrd and Barnett",Churn,1617799783.0,2021-05-31
+37550,743,"Lopez, Jackson and Ramirez",Active,1635687348.0,
+37775,795,Giles PLC,Active,1645771875.0,
+37862,795,Lopez Inc,Churn,1641151391.0,2022-10-28
+38068,656,"Zimmerman, Barr and Garcia",Active,1629416752.0,
+38305,795,Sanders LLC,Active,1619359167.0,
+38461,656,Walker Inc,Active,1641761028.0,
+38487,795,Clements PLC,Active,1628650454.0,
+38585,656,Bell-Taylor,Churn,,2021-11-16
+38698,825,Fletcher-Martinez,Churn,1614260599.0,2021-12-20
+39140,825,Moss-Robinson,Active,1637249645.0,
+39228,795,Luna-Parker,Active,1620526301.0,
+39250,795,Torres-Smith,Active,1637913051.0,
+39350,656,Robinson Group,Active,1623105029.0,
+39419,795,Oconnor Group,Churn,1613362526.0,2021-06-19
+39461,795,Castro Inc,Active,1642638705.0,
+39514,795,"Hall, Rhodes and Evans",Active,1615747405.0,
+39611,743,Scott Inc,Active,1619536554.0,
+39674,743,"Brooks, Griffin and Richardson",Active,1613174773.0,
+40004,656,"Martinez, Rodriguez and Peterson",Active,1618157963.0,
+40156,743,Davenport PLC,Churn,1614186495.0,2021-12-24
+40321,795,Park-Hart,Active,1635945271.0,
+40417,825,Moore Group,Onboarding,,
+40593,656,Mcguire Inc,Churn,1640495383.0,2022-05-05
+40637,825,Santos-Conley,Active,1639519091.0,
+40708,656,"Hernandez, Gamble and Pace",Active,1643110553.0,
+40793,825,Johnson-Ayers,Active,1636121725.0,
+40872,656,"Dawson, Hill and Moore",Churn,1636029085.0,2021-12-11
+41031,656,Olson Inc,Churn,1634731725.0,2022-03-14
+41162,656,Moon-Snyder,Active,1639574588.0,
+41169,656,Bradshaw LLC,Active,1628896166.0,
+41294,795,"Hawkins, Jones and Cook",Churn,1634999381.0,2021-12-18
+41391,795,Brown Ltd,Active,1622327877.0,
+41540,743,Davis-Marquez,Active,1643274692.0,
+41584,656,"Maynard, Morrison and Riley",Active,1641290083.0,
+41628,743,Flores and Sons,Active,1622584141.0,
+41732,825,Lin-Beck,Churn,1617945108.0,2021-11-13
+41914,743,"Villarreal, Clark and Williams",Active,1630466345.0,
+42128,825,"Garcia, Decker and Boyd",Onboarding,,
+42312,743,"Webster, Ruiz and Weber",Churn,1623655474.0,2022-05-12
+42655,795,Price-Davis,Active,1635042819.0,
+42690,656,Ruiz LLC,Active,1638162464.0,
+42757,656,Williams and Sons,Active,1628382098.0,
+42780,743,Hartman Group,Active,1627633607.0,
+42874,743,"Hardin, Johnson and Hamilton",Active,1627736042.0,
+43014,795,Thompson-Ramos,Active,1610972668.0,
+43086,743,Rodriguez-Elliott,Active,1636844325.0,
+43141,656,Wright Ltd,Churn,1621474307.0,2021-10-30
+43296,656,Perez-Clark,Active,1639945177.0,
+43539,656,Stevenson-Butler,Active,1623383589.0,
+43818,825,Cruz-Oconnor,Onboarding,,
+43885,656,Wade LLC,Churn,1637441055.0,2022-08-24
+43930,656,Allen Ltd,Active,1642668598.0,
+43993,743,"Mccarthy, Medina and Ray",Active,1636066947.0,
+44019,825,Carter-Jordan,Churn,1640446906.0,2022-08-17
+44203,743,Duncan Ltd,Active,1640036599.0,
+44271,825,Miller-Horton,Onboarding,,
+44287,656,Berger-Garrett,Active,1639805022.0,
+44300,795,Peterson LLC,Churn,,2022-01-01
+44304,825,"Jensen, Walter and Robinson",Churn,1639081724.0,2022-11-14
+44361,825,"Soto, Ashley and Sweeney",Active,1633226653.0,
+44395,825,"Miller, Waters and Guzman",Churn,1617323792.0,2021-11-03
+44421,795,Walker-Chapman,Churn,1631379494.0,2021-11-21
+44495,656,Boyd-Thompson,Active,1616500128.0,
+44611,825,Gonzalez and Sons,Active,1619861932.0,
+44618,656,Small-Parrish,Churn,1617029140.0,2022-02-02
+44647,825,Delgado-Newton,Active,1638648700.0,
+44754,743,"Mccormick, Willis and Ortiz",Churn,1620734620.0,2022-04-04
+44914,825,Harper-Banks,Active,1628199355.0,
+45006,656,Hale LLC,Active,1626880446.0,
+45210,825,Guerrero PLC,Active,1626660625.0,
+45237,825,Edwards-Bowman,Active,1642366140.0,
+45484,825,Garcia-Wright,Active,1631515317.0,
+45762,825,Morris Group,Active,1639346855.0,
+45981,825,House-Cruz,Active,1646887376.0,
+46172,825,Murphy-Jones,Active,1645749806.0,
+46206,656,Webster PLC,Onboarding,,
+46504,825,Gibbs-Alvarez,Active,1643842812.0,
+46572,743,"Lewis, Wise and Williams",Active,1637229758.0,
+46840,795,Hendricks Group,Active,1630654086.0,
+46880,825,Schroeder-Gonzales,Active,1640843499.0,
+46931,825,King-Johnson,Onboarding,,
+47043,743,Patton Ltd,Active,1622396230.0,
+47138,795,Harper Inc,Active,1635083958.0,
+47217,825,Nelson-Simpson,Churn,1632098908.0,2022-01-19
+47634,656,Anderson-Davila,Active,1641409311.0,
+47692,743,Kelly and Sons,Churn,1643492191.0,2022-12-07
+47711,795,Brown-Ward,Active,1623775683.0,
+47760,656,Gonzales PLC,Active,1630371815.0,
+47925,825,"Morales, Atkinson and Knight",Churn,1640002332.0,2022-11-29
+47947,795,Hudson and Sons,Active,1631071014.0,
+48037,825,Stephens-Hayden,Active,1621205105.0,
+48118,656,Bruce and Sons,Active,1639378946.0,
+48208,743,Collins LLC,Active,1635817191.0,
+48280,825,Krueger-Price,Active,1637397476.0,
+48457,656,Edwards Group,Active,1633355781.0,
+48500,743,Lopez Group,Active,1634465409.0,
+48523,825,Morris and Sons,Active,1645777960.0,
+48700,743,"Gillespie, Camacho and Buchanan",Onboarding,,
+48986,656,"Johnson, Fitzpatrick and Brooks",Active,1620463743.0,
+49045,795,Drake-Ramirez,Active,1641027475.0,
+49091,795,"Jensen, Smith and George",Active,1626360682.0,
+49167,825,King-Smith,Active,1635397247.0,
+49272,743,"Fernandez, Nelson and Sellers",Onboarding,,
+49339,795,Conley-Wolf,Churn,1634177210.0,2022-04-17
+49464,795,"Malone, Garcia and Buchanan",Onboarding,,
+49543,743,"Goodwin, Frazier and Smith",Churn,1640657181.0,2022-05-04
+49567,743,"Villegas, Moore and Jackson",Churn,1635141692.0,2022-05-18
+49774,795,Steele LLC,Churn,1627265593.0,2021-08-24
+49873,743,Jordan-Woodard,Active,1638636209.0,
+49935,825,"Smith, Ayala and Stevens",Active,1613746665.0,
+50009,743,Francis-Abbott,Active,1639448836.0,
+50052,825,Mullen-Hill,Churn,1613827413.0,2021-12-21
+50234,656,Mcdonald-Aguirre,Churn,1622885542.0,2022-01-30
+50330,795,Andrade Group,Churn,1637769599.0,2022-04-02
+50483,825,Alexander PLC,Active,1645708319.0,
+50969,656,"Frazier, Garcia and Espinoza",Churn,1631483992.0,2022-06-22
+51099,825,Reyes Group,Churn,1621616444.0,2022-02-13
+51243,825,"Wilson, Moses and Oliver",Churn,1635962042.0,2022-05-17
+51397,743,Herrera-Garner,Churn,1624620070.0,2022-04-02
+51411,795,Mcgrath PLC,Active,1635843905.0,
+51544,656,Garcia PLC,Active,1643326728.0,
+51748,795,"Buchanan, Campbell and Mendoza",Active,1641997946.0,
+51805,743,"Owens, Mata and Anderson",Active,1620255988.0,
+51951,656,Franklin Ltd,Active,1632928896.0,
+52025,825,Barnes LLC,Active,1624168435.0,
+52071,656,Wilson PLC,Active,1644059383.0,
+52079,743,Torres Group,Onboarding,,
+52230,795,Jones-Miller,Active,1637553719.0,
+52411,743,Medina LLC,Active,1638076372.0,
+52442,656,Simpson-Anderson,Active,1634379034.0,
+52448,795,Sullivan Inc,Churn,,2022-02-15
+52699,656,Jacobson PLC,Churn,,2022-01-28
+53060,825,"Ramos, Rangel and Russell",Active,1616573463.0,
+53087,656,Harris-Ayers,Onboarding,,
+53268,656,Silva LLC,Churn,1640466851.0,2022-08-14
+53284,656,Perez PLC,Onboarding,,
+53366,743,Miller Group,Active,1619136346.0,
+53412,795,Sullivan-Ballard,Active,1629332927.0,
+53706,656,"Miller, George and Davis",Active,1631437376.0,
+54013,825,Oliver-Hernandez,Active,1621740875.0,
+54093,795,Mcdaniel Ltd,Churn,1634986125.0,2022-09-16
+54243,795,"Dunn, Keller and Morgan",Onboarding,,
+54343,825,Brown-Davis,Active,1623299050.0,
+54551,656,"Spencer, Martin and Young",Churn,1637958294.0,2022-10-17
+54590,743,Silva-Garner,Active,1633691447.0,
+54899,656,"Cox, Jones and Thomas",Churn,1642640393.0,2022-04-30
+55021,656,Santos-Boyer,Churn,,2022-01-29
+55116,795,Aguilar Ltd,Churn,,2021-11-12
+55160,656,Gamble and Sons,Active,1644107362.0,
+55235,743,Clark PLC,Active,1614176045.0,
+55300,656,Coleman LLC,Active,1637873927.0,
+55400,743,"Thompson, Jones and Long",Active,1635662670.0,
+55638,743,Collins Group,Active,1642176973.0,
+55752,825,Cannon-Flores,Active,1646131952.0,
+55992,825,"Kennedy, Hawkins and Hunter",Active,1642923298.0,
+56293,656,Casey Group,Churn,1620047971.0,2022-02-15
+56351,743,Stevens and Sons,Onboarding,,
+56395,656,Johnson Ltd,Onboarding,,
+56417,743,"Black, Vega and Padilla",Active,1628650750.0,
+56554,656,Daugherty and Sons,Churn,,2022-01-03
+56662,743,Porter-Stevens,Active,1621530379.0,
+56724,795,Turner Group,Churn,,2022-01-17
+57095,795,"Rodgers, Bridges and Scott",Onboarding,,
+57223,656,Dyer Inc,Active,1614340561.0,
+57315,743,Ford-Barr,Active,1629785240.0,
+57408,743,"Fields, Blair and Hutchinson",Active,1642445834.0,
+57627,743,Harris-Parks,Active,1627283436.0,
+57764,743,"Burns, Ewing and Davis",Active,1629375298.0,
+57926,795,Lyons LLC,Active,1642304479.0,
+58052,656,Hunter Ltd,Churn,1630741096.0,2022-03-05
+58128,795,Clay-Travis,Churn,1633237022.0,2021-11-07
+58384,656,Roberson-Bennett,Churn,,2021-10-28
+58517,656,"Miles, Robbins and Hall",Active,1624830440.0,
+58658,743,Rogers-Reyes,Active,1624565569.0,
+58798,656,"Herman, Ballard and Chapman",Active,1645485238.0,
+58973,795,"Smith, Drake and Ward",Onboarding,,
+59022,825,Harris-Wallace,Active,1626323939.0,
+59371,825,Moody-Lawson,Active,1622953220.0,
+59523,825,Maldonado-Leon,Active,1626859772.0,
+59734,795,Howard Ltd,Churn,1644505892.0,2022-11-18
+59831,743,"Black, Vargas and Smith",Onboarding,,
+60181,656,"Lopez, Chambers and Smith",Active,1621036087.0,
+60350,825,"Lopez, Harvey and Morris",Churn,1620642568.0,2022-02-12
+60409,743,"Ellis, Davis and Johnson",Onboarding,,
+60492,825,Clark LLC,Churn,1638071272.0,2022-07-06
+60558,656,"Pace, Parker and Johnson",Onboarding,,
+60969,656,"Espinoza, Nunez and Harvey",Onboarding,,
+60992,795,Richards PLC,Active,1626553460.0,
+61032,656,Bryant-Rodriguez,Active,1633339825.0,
+61145,656,Gray-Phillips,Active,1619765227.0,
+61239,656,"Schneider, Cantu and Flowers",Active,1636304363.0,
+61259,795,"Noble, Cherry and Carpenter",Active,1616675822.0,
+61326,656,Ramirez-Smith,Churn,1623895102.0,2021-11-13
+61501,656,Brooks Ltd,Active,1641738196.0,
+61600,743,"Suarez, Carey and Lee",Active,1628744172.0,
+61865,743,Lucas and Sons,Onboarding,,
+61915,825,"Byrd, Boyd and Davis",Churn,1637110243.0,2022-10-13
+62005,825,Ortiz Ltd,Active,1623260318.0,
+62096,743,Sullivan Inc,Active,1636708058.0,
+62192,825,Benson-Thomas,Active,1626078575.0,
+62401,825,Brown PLC,Churn,1637126203.0,2022-05-11
+62504,795,Edwards LLC,Active,1618766217.0,
+62583,825,Wolfe LLC,Churn,1630636891.0,2022-06-21
+63001,656,Robertson LLC,Active,1644815294.0,
+63070,795,"Simpson, Stephens and Simmons",Churn,1623871751.0,2021-09-13
+63163,743,Harrison PLC,Active,1644438537.0,
+63230,743,Turner-Smith,Churn,1640686864.0,2022-11-20
+63358,656,Bates-Ashley,Active,1623815955.0,
+63406,825,Boyd-Taylor,Active,1634412263.0,
+63498,795,Terry Ltd,Churn,1625400428.0,2021-10-18
+63560,656,Dixon-Villanueva,Churn,,2022-01-12
+63859,743,Padilla-Armstrong,Active,1625125929.0,
+63894,743,"Gray, Benson and Rodgers",Onboarding,,
+63990,795,Hernandez-Brooks,Active,1629329868.0,
+64063,743,Horton-Perry,Active,1637766260.0,
+64175,795,Cruz-Nelson,Active,1630526749.0,
+64258,795,"Perkins, Shannon and Rodriguez",Active,1642481154.0,
+64296,743,Newman and Sons,Active,1620645879.0,
+64413,743,Roth-Johnson,Active,1644817140.0,
+64548,743,Little-Day,Active,1621609181.0,
+64573,825,"Marshall, Romero and Oneal",Churn,1634185632.0,2021-12-11
+64694,743,Sparks-Dyer,Active,1619460543.0,
+64830,656,Ford-Oneill,Churn,1614169250.0,2021-11-04
+64952,743,Patterson-Williams,Active,1615597459.0,
+65046,656,Rojas-Flores,Churn,1629576563.0,2022-02-27
+65105,795,"Joseph, Arellano and Brown",Active,1638862236.0,
+65144,743,"Smith, Gordon and Wilcox",Churn,1619924450.0,2021-10-20
+65219,825,"Jones, Glass and Brady",Churn,1640315326.0,2022-06-28
+65228,825,Williams-Mercado,Onboarding,,
+65319,743,Johnson-Valentine,Active,1624510511.0,
+65372,825,Clark PLC,Onboarding,,
+65483,825,"Lin, Moss and Avila",Active,1635967730.0,
+65738,743,"Johnson, Evans and Pugh",Active,1626088426.0,
+65879,656,Buchanan-Lawson,Active,1621035369.0,
+66006,825,King-Garcia,Active,1640948350.0,
+66235,825,Thompson-Howe,Active,1641680568.0,
+66288,825,"Raymond, Escobar and Perry",Churn,,2022-03-10
+66715,743,Weaver-Hicks,Churn,1628158296.0,2022-01-27
+67105,656,"Harris, Colon and Miranda",Active,1633965511.0,
+67149,795,Todd-Turner,Active,1631578490.0,
+67164,825,"Jones, Brooks and Heath",Active,1629951280.0,
+67323,743,Goodman Ltd,Active,1631880896.0,
+67349,743,"Espinoza, Campbell and Bennett",Active,1642410348.0,
+67407,825,"Hernandez, Weber and Klein",Onboarding,,
+67589,743,Ryan and Sons,Onboarding,,
+67689,795,Austin Inc,Churn,1638408955.0,2022-06-09
+67807,825,Spencer-Willis,Active,1637771296.0,
+67907,795,Johnson-Russell,Active,1630667214.0,
+67926,825,"Stevens, Fields and Howard",Active,1615350564.0,
+68037,656,Burns and Sons,Active,1618680161.0,
+68415,743,Armstrong-Bell,Active,1635496674.0,
+68450,656,Cruz-Brown,Churn,1630723467.0,2022-05-05
+68960,825,Long-Pearson,Churn,1634295423.0,2022-02-03
+69169,825,"Bender, White and Moore",Churn,,2021-11-26
+69363,743,Ford-Johnson,Active,1624408890.0,
+69544,743,Burke-Cook,Churn,1631997766.0,2022-05-17
+69617,656,"Gomez, Strong and Jones",Active,1634514183.0,
+69843,825,"Simpson, Carey and Pineda",Active,1628836711.0,
+69921,795,"Winters, Sims and Davis",Active,1643397914.0,
+70041,795,Warren-Willis,Active,1621561803.0,
+70354,795,"Perez, Barnes and Maxwell",Active,1613866063.0,
+70420,795,Gonzales-Atkinson,Active,1626687746.0,
+70461,743,"Cherry, Kerr and Owens",Churn,1620595858.0,2022-02-23
+70635,825,Jennings-Vaughan,Active,1632871572.0,
+70737,825,Everett-Hughes,Churn,,2021-12-30
+70820,743,Hernandez-Parsons,Active,1639238564.0,
+70914,743,Collins and Sons,Active,1633953888.0,
+71167,795,Jones-Bailey,Active,1634717368.0,
+71562,743,Reeves-Bailey,Active,1633621812.0,
+71891,795,Martinez-Thompson,Churn,1637492119.0,2022-10-08
+72143,656,Hart and Sons,Churn,1617882228.0,2021-10-07
+72240,825,Pittman Group,Active,1642723956.0,
+72299,656,Moore and Sons,Active,1629745629.0,
+72467,743,Phillips-Kelly,Active,1643016856.0,
+72494,743,"White, Underwood and Wilson",Active,1638819577.0,
+72564,825,Smith LLC,Active,1623936289.0,
+72578,656,Cantrell-Myers,Churn,1634378170.0,2022-06-07
+72583,795,Fletcher PLC,Churn,1620060189.0,2021-09-27
+72623,656,Harper-Hahn,Active,1641308642.0,
+72847,795,"Jones, Young and Vega",Active,1641539728.0,
+73014,743,"Richardson, Koch and Wilson",Churn,1644324109.0,2022-04-16
+73078,743,Mckinney-Griffith,Active,1628632024.0,
+73092,743,Kelley-May,Active,1617096004.0,
+73111,795,Castaneda Group,Onboarding,,
+73386,795,Lamb LLC,Active,1644519769.0,
+73407,825,Cobb Inc,Active,1633314072.0,
+73432,795,Underwood-Boyd,Active,1633186433.0,
+73444,825,"Jimenez, Saunders and Brady",Active,1642253180.0,
+73532,795,Russell-Jones,Churn,1642491502.0,2022-10-26
+73681,743,Dorsey-Carson,Active,1638672689.0,
+73822,743,Mckenzie Group,Active,1646234839.0,
+74012,743,"Bishop, White and Adams",Active,1618412776.0,
+74109,825,Adams PLC,Onboarding,,
+74309,743,Patel and Sons,Active,1634098902.0,
+74398,795,Fisher Ltd,Active,1632260413.0,
+74411,656,Rodriguez Inc,Churn,1618423182.0,2021-11-28
+74507,795,Watson LLC,Active,1611919162.0,
+74523,743,Jones-Hanna,Active,1645117935.0,
+74614,825,Dalton and Sons,Active,1642413938.0,
+74758,656,Wood-Lane,Active,1640239308.0,
+75276,743,Vaughn-Spencer,Active,1612143257.0,
+75349,795,"Bell, Cannon and Gamble",Churn,1622536211.0,2022-03-16
+75647,795,Morrow LLC,Onboarding,,
+75746,825,Gray LLC,Active,1632429867.0,
+75939,743,Raymond-Barrett,Active,1643674574.0,
+76132,825,Jimenez-Dudley,Active,1642626920.0,
+76156,656,Simmons PLC,Churn,1633326828.0,2022-05-18
+76524,825,"Parker, Lee and Pacheco",Active,1628035576.0,
+76772,743,"Williamson, Grant and Torres",Active,1643546703.0,
+76819,795,"Peterson, Clark and Woods",Active,1615856452.0,
+76840,795,Roberts-Spencer,Active,1635622231.0,
+76850,795,"Bennett, Ruiz and Jones",Onboarding,,
+77201,743,Smith PLC,Active,1635650928.0,
+77281,795,Zavala-Sanders,Active,1629153442.0,
+77638,795,Johnson Group,Onboarding,,
+77685,743,Kemp-Chavez,Churn,1626527706.0,2021-11-10
+77767,656,"Edwards, Stanton and Allen",Churn,1615078129.0,2022-02-05
+77811,656,"Hess, Lopez and Gutierrez",Active,1637384611.0,
+77942,825,"Deleon, Love and Soto",Active,1616796333.0,
+78018,743,Kramer Inc,Active,1638602427.0,
+78068,795,Gilmore-Johnson,Active,1627727093.0,
+78215,825,Stewart-Bauer,Active,1620520915.0,
+78304,656,Andrews Group,Churn,1620559010.0,2021-11-18
+78413,743,"Thomas, Page and Ward",Active,1646359907.0,
+78462,795,Parker Group,Churn,1629823721.0,2021-11-26
+78484,743,"Murphy, Washington and Parks",Churn,1631711353.0,2022-05-13
+78866,825,"Stewart, Jimenez and White",Onboarding,,
+78951,656,"Roman, Benitez and Phillips",Active,1631785234.0,
+79148,795,Tucker-Hernandez,Active,1625004572.0,
+79295,743,"Rhodes, Olsen and Williams",Churn,1613174746.0,2021-12-26
+79361,795,Spence-White,Churn,1617059336.0,2021-11-11
+79591,795,Dillon Ltd,Active,1620330570.0,
+79645,656,Gordon Inc,Active,1633209448.0,
+79830,825,Williams-Miller,Churn,1637565906.0,2022-04-06
+79915,825,Garcia LLC,Churn,1627417979.0,2021-12-14
+79960,743,Gaines-Oliver,Churn,1625746296.0,2021-11-17
+80133,656,"Kelly, Larson and Conner",Active,1621340794.0,
+80152,825,Ingram PLC,Churn,1634590313.0,2022-04-29
+80187,825,Kirby-Smith,Active,1627678980.0,
+80253,795,"Li, Goodman and Ewing",Active,1637470912.0,
+80338,795,Hernandez-Taylor,Active,1645186612.0,
+80482,743,"Russell, Briggs and Wolf",Churn,1638740582.0,2022-05-07
+80499,825,Patterson PLC,Active,1643270405.0,
+80517,743,Nichols Inc,Active,1627831422.0,
+80773,743,Lopez Ltd,Active,1632005274.0,
+80808,825,Taylor PLC,Churn,1619990288.0,2022-04-15
+80855,743,Martin and Sons,Active,1644077055.0,
+80925,656,Adams-Brown,Active,1648278932.0,
+81017,656,Brooks PLC,Churn,1647094919.0,2022-11-23
+81058,795,Brown Inc,Active,1629238040.0,
+81178,743,Watson Ltd,Churn,1626788175.0,2021-10-07
+81299,825,Owen-Mcclure,Active,1634608104.0,
+81436,825,Torres-Heath,Active,1643035228.0,
+81501,743,"Thomas, Levy and Coffey",Active,1630113888.0,
+81526,825,Duffy-Moore,Active,1626189503.0,
+81720,743,"Morris, Smith and Thomas",Active,1621597617.0,
+81738,825,Reed-Howard,Active,1643501770.0,
+81901,825,"Johnson, Wilson and Harrington",Onboarding,,
+81986,825,Miller-Bautista,Churn,1633122027.0,2022-01-20
+82045,743,Turner-Short,Active,1643230892.0,
+82088,825,Arroyo-Skinner,Active,1637898681.0,
+82121,743,Parks-Dixon,Active,1646327429.0,
+82184,795,Carpenter-Randolph,Active,1640252819.0,
+82545,743,"Hood, Gillespie and Rollins",Active,1639639273.0,
+82732,743,Mendez-Webster,Churn,1631672903.0,2022-05-23
+82896,825,Lam Inc,Onboarding,,
+82903,743,Jacobs and Sons,Churn,1638946566.0,2022-04-11
+83065,743,Shields-Wright,Active,1642192992.0,
+83152,743,Parker-Thomas,Active,1615910302.0,
+83259,656,Jackson Ltd,Onboarding,,
+83433,743,Perkins LLC,Active,1642681751.0,
+83464,656,Glenn-Hubbard,Active,1644640319.0,
+83602,656,"Powell, Thornton and Ellis",Onboarding,,
+83665,656,Williams-Fox,Churn,,2021-05-01
+83731,825,"Montoya, Marsh and Delgado",Active,1628715149.0,
+83751,743,Torres-Dunn,Active,1636643751.0,
+83974,795,Sawyer-Brown,Churn,1637948234.0,2022-02-07
+84073,743,Spears-Everett,Active,1644899487.0,
+84146,795,"Daniels, Maldonado and Alexander",Churn,,2021-10-13
+84291,795,"Walker, Benitez and Harmon",Churn,1623359393.0,2021-09-21
+84308,795,Bradley-Goodman,Active,1637307803.0,
+84364,656,Morrison-Hurley,Onboarding,,
+84381,743,"Watson, Price and Sanchez",Active,1631436113.0,
+84451,795,"Werner, Parker and Adkins",Active,1643990542.0,
+84483,743,"Wright, Duffy and Thompson",Active,1636080526.0,
+84499,825,Austin-Morris,Active,1632522530.0,
+84509,656,"Hall, Sanders and Edwards",Active,1639156725.0,
+84627,743,"Thompson, Ryan and Clarke",Active,1626895956.0,
+84755,656,Hill and Sons,Churn,1616174556.0,2021-09-01
+84960,656,James Ltd,Churn,1620721477.0,2022-02-12
+84978,743,"White, Hood and Bender",Active,1624795773.0,
+85204,656,Moore-Garcia,Onboarding,,
+85525,743,"Dunn, Myers and Myers",Churn,1638640348.0,2022-06-11
+85799,795,Howard Group,Churn,1621236799.0,2022-02-11
+85816,825,"Rodriguez, Mitchell and Collins",Churn,1618684708.0,2021-08-25
+85909,795,Chambers-Cochran,Active,1632459948.0,
+86198,825,"Brewer, King and Glover",Churn,1641282626.0,2022-03-18
+86395,743,Jones Ltd,Churn,1628207531.0,2022-06-09
+86580,743,Grimes Group,Active,1631555780.0,
+86805,825,Collins Group,Active,1623060631.0,
+86903,656,"Camacho, Gonzalez and Hester",Active,1617814429.0,
+87045,795,"Rogers, Alvarado and Bell",Onboarding,,
+87065,656,"Huerta, Kim and Smith",Active,1632987364.0,
+87102,795,"Wallace, Gutierrez and Brown",Active,1617737863.0,
+87286,825,"Graves, Osborn and Leon",Active,1622633046.0,
+87452,825,Allen and Sons,Active,1637814281.0,
+87491,795,Ortega and Sons,Active,1630809602.0,
+87536,795,"Byrd, Bates and Patel",Churn,1634176300.0,2021-11-20
+87634,825,Freeman Inc,Active,1644617857.0,
+87727,825,"Simon, Knight and Hernandez",Active,1620447928.0,
+87749,656,Hahn-Jackson,Churn,1637669247.0,2022-10-03
+87936,656,"Hernandez, Greer and Martin",Active,1634696550.0,
+88203,656,Wright-Alexander,Active,1644026891.0,
+88316,656,"Terry, Goodman and Mckinney",Onboarding,,
+88378,743,Payne-White,Churn,,2022-01-26
+88531,743,Marshall-Snyder,Active,1631541176.0,
+88572,795,Rios Inc,Onboarding,,
+88654,743,"Murray, Sandoval and Payne",Active,1635984380.0,
+88715,656,Soto-Jones,Active,1614430839.0,
+88733,656,Yates-Delgado,Active,1631321525.0,
+88860,795,Vazquez Group,Churn,1630068574.0,2022-01-13
+89087,795,Ramirez-Luna,Active,1628868694.0,
+89194,656,Lawrence and Sons,Active,1619351240.0,
+89327,795,Mendoza-Delacruz,Active,1635637520.0,
+89458,795,"Jenkins, Robertson and Taylor",Onboarding,,
+89609,743,"Richardson, Ortega and Campbell",Churn,,2021-08-05
+89686,743,Flores-Stafford,Active,1629325207.0,
+89845,743,"Hudson, Williams and Kim",Churn,1625218740.0,2021-11-07
+90035,656,White LLC,Active,1628283685.0,
+90149,743,"Sanchez, Blake and Michael",Onboarding,,
+90325,795,Hamilton-Villarreal,Churn,1630918317.0,2022-02-20
+90403,743,Macias and Sons,Active,1624582068.0,
+90507,743,Browning Group,Active,1639376846.0,
+90662,743,Henderson-Smith,Active,1625598604.0,
+90680,743,"Medina, Kent and Goodman",Churn,,2021-07-15
+90778,743,"Carlson, Nelson and Miller",Churn,1632912707.0,2022-07-30
+91114,743,Clark-Larson,Active,1626208665.0,
+91137,656,Mason-Simmons,Churn,1625888856.0,2022-06-09
+91151,743,Davis-Taylor,Churn,1620638267.0,2022-03-23
+91212,795,Smith-Gardner,Active,1635338487.0,
+91446,825,"Rodriguez, Lowery and Sanchez",Active,1622930325.0,
+91866,795,Gallegos-Hill,Active,1623502242.0,
+92042,743,Haney PLC,Onboarding,,
+92114,795,Becker PLC,Active,1622679643.0,
+92254,743,Howard Group,Active,1618426197.0,
+92316,656,"Clarke, Vaughn and Hernandez",Churn,1632497635.0,2022-06-01
+92403,795,"Tyler, Sutton and Lewis",Onboarding,,
+92424,743,Hester Group,Active,1631004764.0,
+92526,825,Cobb-Cunningham,Onboarding,,
+92569,795,Stone LLC,Active,1639065554.0,
+92664,825,"Clark, Robinson and Holmes",Onboarding,,
+92721,743,Dixon PLC,Active,1621503897.0,
+92856,743,Kramer PLC,Active,1621392076.0,
+92958,795,"Page, Hess and Grant",Active,1620110855.0,
+93010,825,"Hernandez, Newman and Woodward",Churn,1615733214.0,2022-01-14
+93040,795,Rogers-Ellis,Active,1642176469.0,
+93238,795,"Becker, Baker and Baker",Churn,,2021-04-13
+93454,743,Holland-Flores,Churn,1626769217.0,2021-09-26
+93584,795,Brown and Sons,Active,1638242147.0,
+93756,743,Mullen Group,Churn,1619427105.0,2021-07-05
+93898,656,Hutchinson Group,Churn,1642397316.0,2022-07-31
+93956,656,Williams-Walker,Churn,1647062606.0,2022-10-05
+94177,743,"Campbell, Payne and Paul",Active,1636939580.0,
+94356,795,Schmidt-Welch,Active,1626943889.0,
+94378,795,Perry-Hicks,Active,1643818457.0,
+94509,825,Warren and Sons,Active,1635824646.0,
+94576,825,Russell-Jackson,Churn,,2021-06-29
+95039,825,"Wood, Watson and Bass",Active,1640651382.0,
+95167,795,"Brooks, Ward and Molina",Churn,1617394670.0,2021-12-16
+95205,743,Edwards PLC,Active,1635945513.0,
+95244,795,Hickman and Sons,Churn,,2021-06-06
+95298,743,"Matthews, Price and Gibbs",Active,1625256429.0,
+95453,743,Solis-Knight,Active,1642817312.0,
+95518,795,Hunt and Sons,Active,1617206781.0,
+95632,795,French-Patterson,Active,1628119133.0,
+95780,743,Lee Group,Active,1629471128.0,
+95790,825,Morgan and Sons,Active,1630497957.0,
+95841,795,"Aguirre, Martinez and Alvarez",Active,1642490920.0,
+96006,825,Coleman and Sons,Active,1636205181.0,
+96010,743,Hall-Johnson,Churn,1631800504.0,2022-07-11
+96104,743,"Farrell, Strickland and Graves",Active,1625305641.0,
+96220,743,"Collins, Kelley and Deleon",Active,1635676715.0,
+96412,825,Marshall-Moore,Churn,1640985877.0,2022-09-26
+96441,743,"Stanton, Mcguire and Hammond",Active,1645195960.0,
+96770,825,Long-Frederick,Active,1636094885.0,
+96864,743,Berger-Murphy,Active,1620603198.0,
+97068,825,"Hall, Farley and Sanford",Active,1641768791.0,
+97184,656,"Chandler, Leach and Welch",Active,1622796791.0,
+97417,743,Davis-Frye,Active,1640163071.0,
+97546,795,"Lewis, Howard and Malone",Active,1645707941.0,
+97566,825,"Watts, Howell and Garcia",Active,1624608223.0,
+97650,825,"Mccall, Ortiz and Martin",Active,1646764248.0,
+97661,743,Holt-Taylor,Active,1641061110.0,
+97827,743,"Wilson, Harrison and Thompson",Active,1621077549.0,
+97957,825,Butler-Warner,Active,1621843362.0,
+97990,795,"Kim, Delgado and Berger",Churn,1634060841.0,2022-02-21
+98013,825,"Torres, Boyd and Davis",Active,1629849079.0,
+98096,825,"Oconnor, Kramer and Roberts",Active,1645985266.0,
+98116,825,Figueroa Inc,Active,1630353148.0,
+98184,825,Perez-Brooks,Active,1620167899.0,
+98239,795,Jackson-Gonzalez,Churn,1629541331.0,2022-04-16
+98407,743,Brown Inc,Active,1616148720.0,
+98734,795,Harris Group,Active,1626019752.0,
+98772,825,"Garza, Benjamin and Oliver",Active,1621362153.0,
+98865,825,"Douglas, Peters and Mccoy",Churn,1633301168.0,2022-08-31
+98911,795,Pena-Wilson,Churn,1619993903.0,2021-10-01
+98939,656,Calhoun Group,Active,1627723050.0,
+98994,795,Davis Ltd,Churn,1625503397.0,2021-12-11
+99055,795,"Rodriguez, Hernandez and Bridges",Churn,1639288674.0,2022-03-08
+99233,825,"Padilla, Martinez and Stevenson",Active,1635835606.0,
+99331,743,Stanley-Perry,Churn,1642841341.0,2022-11-08
+99414,795,Flores-Lee,Onboarding,,
+99488,743,Franklin PLC,Active,1638564636.0,
+99583,743,Munoz Ltd,Churn,,2021-10-22
+100042,743,Newman-Brown,Active,1634309070.0,
+100052,743,"Pugh, Jones and Davis",Active,1634575266.0,
+100093,743,Fuller Inc,Active,1622709465.0,
+100244,743,"Bailey, Hall and Weaver",Active,1643108121.0,
+100259,795,Cunningham-Johnson,Active,1633927414.0,
+100273,743,Mann and Sons,Active,1638802415.0,
+100287,656,Hernandez-Saunders,Churn,1641020347.0,2022-08-28
+100367,743,"Miles, Soto and Young",Churn,,2021-06-08
+100430,743,Poole LLC,Churn,1631340710.0,2022-03-02
+100434,795,"Gordon, Mccarthy and Fisher",Active,1631052328.0,
+100534,743,Johnson and Sons,Active,1623243482.0,
+100668,795,David-Rivera,Active,1633514946.0,
+100672,743,Harris Group,Active,1631121740.0,
+100684,743,"Lee, Meyer and Oconnor",Active,1634322608.0,
+100773,825,Barnett Group,Churn,1613405798.0,2021-07-28
+101146,743,Scott and Sons,Active,1636619062.0,
+101571,825,Wiggins and Sons,Active,1634376518.0,
+102044,743,Johnson and Sons,Onboarding,,
+102090,825,Peterson Ltd,Active,1615873028.0,
+102105,795,Wilson-Carr,Churn,1618818252.0,2022-03-10
+102312,743,Bryan-Newman,Churn,1629962482.0,2022-05-22
+102339,656,Wallace Group,Active,1632216395.0,
+102409,795,"Ferguson, Lloyd and Klein",Active,1644936379.0,
+102512,825,Rivera-Santiago,Active,1622807205.0,
+102541,656,"Brandt, Thomas and Miller",Active,1641998488.0,
+102687,795,Alexander PLC,Active,1621497569.0,
+102703,656,"Duran, Haas and Elliott",Active,1634901733.0,
+102783,795,Carrillo-Mitchell,Churn,1629770413.0,2022-05-03
+102850,656,Myers-Marshall,Onboarding,,
+102945,825,"Lindsey, Stewart and James",Active,1634551222.0,
+103021,825,"Jones, Horton and Hughes",Active,1632676167.0,
+103058,743,"May, Mcintyre and Hughes",Onboarding,,
+103122,743,Shaw and Sons,Churn,1643024215.0,2022-06-12
+103255,656,Thomas Inc,Onboarding,,
+103264,743,Douglas-Williams,Active,1629305134.0,
+103311,795,"Cooper, Cameron and Hudson",Active,1639251714.0,
+103331,743,Garcia LLC,Active,1645606194.0,
+103374,656,Hubbard and Sons,Active,1623557860.0,
+103413,656,Meyer-Lynch,Active,1631891483.0,
+103488,656,Carpenter Inc,Active,1641540697.0,
+103669,656,"Sanchez, Williams and Small",Churn,1627310902.0,2022-06-27
+103739,656,Terry Inc,Churn,1640429778.0,2022-07-22
+103805,795,"Hart, Sullivan and Spencer",Active,1639309627.0,
+103906,795,"Gray, Lee and Baldwin",Onboarding,,
+104263,795,Sanders-Harris,Active,1632406290.0,
+104363,795,Roberts Ltd,Active,1624056537.0,
+104400,743,York Inc,Active,1624940359.0,
+104434,825,Navarro Ltd,Active,1637526285.0,
+104491,825,Reilly Ltd,Active,1639693925.0,
+104689,743,Hernandez-Allen,Churn,1619566517.0,2021-09-15
+104874,656,Snyder-Nelson,Active,1629453789.0,
+104980,825,Bell and Sons,Churn,1619529099.0,2021-09-20
+105077,825,"Rodriguez, Martinez and Chambers",Churn,1633585291.0,2022-04-11
+105165,825,Newton Ltd,Active,1634357191.0,
+105328,795,Pierce-Juarez,Churn,1633862221.0,2022-02-07
+105405,656,Bond-Howard,Active,1623439300.0,
+105547,825,"Stevens, Hernandez and Dunn",Active,1617625170.0,
+105558,743,"Dodson, Bolton and Bass",Active,1639192944.0,
+105675,656,"Flores, Green and Harrison",Active,1627402303.0,
+105802,743,"Hebert, Wong and Massey",Onboarding,,
+105829,825,Villarreal-Mitchell,Churn,1634471773.0,2022-08-26
+105874,825,Terrell LLC,Active,1641557803.0,
+105937,825,"Norton, Walker and Wilson",Onboarding,,
+105983,656,"Moreno, Stevens and Pacheco",Churn,1625570465.0,2021-11-27
+105998,656,Cohen-Choi,Active,1632038148.0,
+106655,825,Young and Sons,Active,1625848091.0,
+106719,743,Lutz Ltd,Active,1640936473.0,
+106793,656,Jimenez-Duncan,Churn,1627110747.0,2021-10-19
+106889,743,Diaz-Nolan,Active,1628576268.0,
+107190,743,Choi Inc,Churn,1624976354.0,2022-03-12
+107431,656,Chase-Shelton,Churn,1630509457.0,2022-03-10
+107484,795,Banks and Sons,Active,1616445953.0,
+107564,656,Parsons-Williams,Active,1642237357.0,
+107664,743,"Bell, Powell and White",Active,1637004772.0,
+107760,795,Rodriguez-Davis,Churn,1615265140.0,2021-11-28
+107777,825,"Parker, White and Montes",Active,1619046193.0,
+107797,825,Ramirez Inc,Churn,1633536011.0,2022-07-23
+107970,743,"Myers, Schroeder and Keller",Churn,1631853563.0,2022-06-25
+108167,656,"Russell, Marks and Hogan",Churn,1639685736.0,2022-06-30
+108261,825,Harris-Roach,Active,1616761315.0,
+108273,795,"Beard, Torres and Casey",Churn,1628498313.0,2022-03-09
+108356,825,Lloyd-Diaz,Onboarding,,
