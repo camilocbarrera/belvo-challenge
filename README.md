@@ -5,10 +5,6 @@ The purpose of this case is to present a practical proposal for the treatment of
 > *(…) For this challenge, we want you to write a script to ingest some fake raw data, create
 the necessary data models*
 > 
-DB Access
-- HOST: https://pjb00188.us-east-1.snowflakecomputing.com/
-- USER: juan.gesino@belvo.com
-- PASS: Belvo1234
 
 # Architecture
 
